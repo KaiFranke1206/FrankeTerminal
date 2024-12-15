@@ -61,14 +61,14 @@ pip install -r requirements.txt
 | **note**     | Create, edit, and view notes.                        |
 | **ping**     | Test connectivity to a host.                         |
 | **pwd**      | Print the current working directory.                 |
-| **recall**   | Like echo.                                           |
+| **recall**   | Recall and display previously executed commands.     |
 | **rm**       | Remove files or directories.                         |
 | **run**      | Execute a specified program or script.               |
 | **sysinfo**  | Display detailed system information.                 |
 | **taskman**  | Manage running processes and view their status.      |
 | **theme**    | Customize the terminal appearance.                   |
 | **wget**     | Download files from the internet.                    |
-| **wipe**     | Clear the Terminal Screen.                           |
+| **wipe**     | Securely delete files or directories.                |
 
 ---
 
@@ -141,6 +141,12 @@ pip install -r requirements.txt
 ## Extending FrankeOS
 
 Adding functionality to FrankeOS is straightforward. Write a new command as described in the **Adding New Commands** section. Leverage Python libraries or system APIs to extend the capabilities of the terminal.
+
+---
+
+## Acknowledgements
+
+This `README.md` file was created by ChatGPT, as the author was too lazy to write it. Enjoy using FrankeOS, and feel free to improve upon this work!
 
 ---
 
