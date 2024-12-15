@@ -61,14 +61,14 @@ pip install -r requirements.txt
 | **note**     | Create, edit, and view notes.                        |
 | **ping**     | Test connectivity to a host.                         |
 | **pwd**      | Print the current working directory.                 |
-| **recall**   | Recall and display previously executed commands.     |
+| **recall**   | Usage like echo.                                     |
 | **rm**       | Remove files or directories.                         |
 | **run**      | Execute a specified program or script.               |
 | **sysinfo**  | Display detailed system information.                 |
 | **taskman**  | Manage running processes and view their status.      |
 | **theme**    | Customize the terminal appearance.                   |
 | **wget**     | Download files from the internet.                    |
-| **wipe**     | Securely delete files or directories.                |
+| **wipe**     | Clear the Terminal Screen.                           |
 
 ---
 
